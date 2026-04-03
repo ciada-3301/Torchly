@@ -1,9 +1,20 @@
-# Torchly - Simple PyTorch Wrapper Library
-[![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
-A comprehensive yet simple wrapper over PyTorch for creating, training, and managing neural networks with minimal code.
+<h1 align="center">Torchly - Simple PyTorch Wrapper Library</h1>
 
+<p align="center">
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3.8+-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://pytorch.org">
+    <img src="https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-22c55e?style=flat-square" alt="License: MIT">
+  </a>
+</p>
+
+<p align="center">
+  A comprehensive yet simple wrapper over PyTorch for creating, training, and managing neural networks with minimal code.
+</p>
 ## Features
 
 - **Simple API**: Train models with one-line commands
