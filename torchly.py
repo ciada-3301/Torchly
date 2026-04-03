@@ -1,5 +1,5 @@
 """
-NeuralNet - A Simple PyTorch Wrapper for Easy Neural Network Training
+Torchly - A Simple PyTorch Wrapper for Easy Neural Network Training
 Author: Arkadyuti Maiti
 Version: 1.0.0
 
@@ -1087,7 +1087,7 @@ def one_hot_encode(y: np.ndarray, num_classes: Optional[int] = None) -> np.ndarr
 
 # Example usage
 if __name__ == "__main__":
-    print("NeuralNet Library - Example Usage")
+    print("Torchly Library - Example Usage")
     print("=" * 50)
     
     # Generate sample data
