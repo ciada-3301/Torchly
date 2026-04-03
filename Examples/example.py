@@ -39,7 +39,9 @@ print("Actual:", (3*3) - (3+3))
 # Extract weights
 
 # Save & load
-model.save("my_model.pt")
+model.save("Models/my_model.pt")  # Saved the model using the filepath/filename.pt structure
 
+# To load the model, simply use the load method with the same filepath/filename.pt structure
+loaded_model = Model.load("Models/my_model.pt")
 
 
